@@ -1,0 +1,54 @@
+[{
+    "id": 1,
+    "nameProduct": "Телефон",
+    "price": 1500.0,
+    "manufacturer": "SONY"
+},
+{
+    "id": 2,
+    "nameProduct": "Планшет",
+    "price": 5000.0,
+    "manufacturer": "SONY"
+},
+{
+    "id": 3,
+    "nameProduct": "MP3-Player",
+    "price": 500.0,
+    "manufacturer": "SONY"
+},
+{
+    "id": 4,
+    "nameProduct": "Телефон",
+    "price": 2500.0,
+    "manufacturer": "PANASONIC"
+},
+{
+    "id": 5,
+    "nameProduct": "Планшет",
+    "price": 4000.0,
+    "manufacturer": "PANASONIC"
+},
+{
+    "id": 6,
+    "nameProduct": "MP3-Player",
+    "price": 1000.0,
+    "manufacturer": "PANASONIC"
+},
+{
+    "id": 7,
+    "nameProduct": "Телефон",
+    "price": 1000.0,
+    "manufacturer": "PHILIPS"
+},
+{
+    "id": 8,
+    "nameProduct": "Планшет",
+    "price": 3000.0,
+    "manufacturer": "PHILIPS"
+},
+{
+    "id": 9,
+    "nameProduct": "MP3-Player",
+    "price": 1500.0,
+    "manufacturer": "PHILIPS"
+}]
